@@ -18,4 +18,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=sSahad&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-![Sahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sSahad&count_private=true&show_icons=true&theme=cobalt)
