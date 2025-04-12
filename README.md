@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=sSahad&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sSahad&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sSahad&theme=tokyonight)
+
