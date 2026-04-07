@@ -4,6 +4,7 @@ I'm a Senior iOS Engineer with 10+ years of experience building scalable and hig
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -14,6 +15,7 @@ I'm a Senior iOS Engineer with 10+ years of experience building scalable and hig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSahad&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=sSahad&theme=tokyonight" />
 </p>
+-->
 
 ---
 
