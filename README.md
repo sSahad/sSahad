@@ -1,23 +1,32 @@
 ## Hi there 👋
 
-<!--
-**sSahad/sSahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior iOS Engineer with 10+ years of experience building scalable and high-quality mobile applications using Swift and SwiftUI. I focus on clean architecture, performance, and modern mobile development, with growing interest in AI-powered features and tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sSahad&count_private=true&show_icons=true&theme=radical" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sSahad&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sSahad&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSahad&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sSahad&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 About Me
+- 📱 iOS Development (Swift, SwiftUI, UIKit)
+- 🧱 Clean Architecture, MVVM, Modularization
+- 🧪 Unit Testing, TDD
+- ⚙️ Performance Optimization & Scalable Systems
+- 🤖 Exploring AI integration in mobile apps (Claude, Cursor, LLMs)
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/sadrul31
+- GitHub: https://github.com/sSahad
 
